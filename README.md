@@ -1,4 +1,4 @@
-# dib appd
+# [dib](dib.im) [appd](#Installation)
 
 <a href="dib.im">
 <div align="center">
